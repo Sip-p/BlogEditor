@@ -10,3 +10,34 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🎨 BlogEditor Frontend
+
+This is the frontend for the BlogEditor project. It is built using **React.js** and interacts with a RESTful backend API to manage blogs.
+
+---
+
+## 🚀 Features
+
+- Create/Edit blog posts
+- Save blog as Draft or Publish
+- View published or draft blogs
+- Responsive UI
+
+---
+
+## 🧰 Tech Stack
+
+- React.js
+- Axios
+- React Router  
+- Tailwind CSS
+- JWT (Authentication)
+
+---
+
+## 📦 Installation
+
+```bash
+cd frontend
+npm install
+npm run dev
