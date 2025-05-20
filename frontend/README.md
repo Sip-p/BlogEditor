@@ -31,7 +31,7 @@ This is the frontend for the BlogEditor project. It is built using **React.js** 
 - Axios
 - React Router  
 - Tailwind CSS
-- JWT (Authentication)
+ 
 
 ---
 
